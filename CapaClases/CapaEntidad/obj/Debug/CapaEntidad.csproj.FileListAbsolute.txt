@@ -1,0 +1,13 @@
+C:\Users\TavoW7\Documents\Web Reserva Hotelera\CapaClases\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\TavoW7\Documents\Web Reserva Hotelera\CapaClases\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\TavoW7\Documents\Web Reserva Hotelera\CapaClases\CapaEntidad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TavoW7\Documents\Web Reserva Hotelera\CapaClases\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\TavoW7\Documents\Web Reserva Hotelera\CapaClases\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Web Reserva Hotelera\CapaClases\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Web Reserva Hotelera\CapaClases\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Web Reserva Hotelera\CapaClases\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Web Reserva Hotelera\CapaClases\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistemas\Reserva de Salas\CapaClases\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Sistemas\Reserva de Salas\CapaClases\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistemas\Reserva de Salas\CapaClases\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Proyectos\Sistemas\Reserva de Salas\CapaClases\CapaEntidad\obj\Debug\CapaEntidad.pdb

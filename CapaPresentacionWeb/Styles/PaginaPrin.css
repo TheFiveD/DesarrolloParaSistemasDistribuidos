@@ -1,0 +1,96 @@
+﻿body {
+	margin:0px;
+	padding:0px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 1em;
+	
+}
+#MasterCabezera 
+{
+    width:100%;
+	height:40px;
+	top:0;
+	left:0;
+	position:absolute;
+    background:url(../Imagenes/General/header.jpg);
+    
+	
+}
+#MasterMenu
+{
+    border-right: 1px solid #B8DCF2;
+    width: 18%;
+    height:auto;
+    float: left;
+    margin-top: 40px;
+    overflow: auto;
+    border-left-color: #B8DCF2;
+    border-top-color: #B8DCF2;
+    border-bottom-color: #B8DCF2;
+}
+#MasterContenedor
+{
+    width: 78%;
+    height: auto;
+    float: right;
+    background-color: #FFFFFF;
+    margin-top: 40px;
+    overflow: inherit;
+    left: 1%;
+}
+#MasterPie
+{
+    width:100%;
+	height:20px;
+	position:absolute;
+    clear:both;
+    bottom:0;
+    left:0;
+    background-color:Olive;
+}
+#DivMargen
+{
+	margin: 4px;
+	width: 100%;
+}
+a:hover
+{
+    color: #1d60ff;
+    text-decoration: none;
+}
+
+a:active
+{
+    color: #034af3;
+    text-decoration: underline;
+}
+.Usuario 
+{
+	color:#1b4a6f;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1em;
+}
+.Titulo
+{
+    color: #1b4a6f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.3em;
+    margin: 0px;
+    padding: 0px;
+}
+.Cerrar 
+{
+	padding-right:10px;
+	color:#1b4a6f;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	text-align:right;
+}
+.SessionTiempo
+{
+    margin: 0px 4px 0px 4px;
+    padding: 1px 3px 1px 3px;
+    font-size: 12px;
+    color: #FFFFFF;
+    background-color: #FF1A0D;
+}

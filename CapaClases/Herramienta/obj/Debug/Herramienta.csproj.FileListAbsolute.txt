@@ -1,0 +1,13 @@
+C:\Users\TavoW7\Documents\Web Reserva Hotelera\CapaClases\Herramienta\bin\Debug\Herramienta.dll
+C:\Users\TavoW7\Documents\Web Reserva Hotelera\CapaClases\Herramienta\bin\Debug\Herramienta.pdb
+C:\Users\TavoW7\Documents\Web Reserva Hotelera\CapaClases\Herramienta\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TavoW7\Documents\Web Reserva Hotelera\CapaClases\Herramienta\obj\Debug\Herramienta.dll
+C:\Users\TavoW7\Documents\Web Reserva Hotelera\CapaClases\Herramienta\obj\Debug\Herramienta.pdb
+D:\Web Reserva Hotelera\CapaClases\Herramienta\bin\Debug\Herramienta.dll
+D:\Web Reserva Hotelera\CapaClases\Herramienta\bin\Debug\Herramienta.pdb
+D:\Web Reserva Hotelera\CapaClases\Herramienta\obj\Debug\Herramienta.dll
+D:\Web Reserva Hotelera\CapaClases\Herramienta\obj\Debug\Herramienta.pdb
+D:\Proyectos\Sistemas\Reserva de Salas\CapaClases\Herramienta\bin\Debug\Herramienta.dll
+D:\Proyectos\Sistemas\Reserva de Salas\CapaClases\Herramienta\bin\Debug\Herramienta.pdb
+D:\Proyectos\Sistemas\Reserva de Salas\CapaClases\Herramienta\obj\Debug\Herramienta.dll
+D:\Proyectos\Sistemas\Reserva de Salas\CapaClases\Herramienta\obj\Debug\Herramienta.pdb

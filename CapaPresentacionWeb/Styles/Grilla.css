@@ -1,0 +1,396 @@
+﻿/*Grilla Formato */
+.Grilla, .GrillaCelda, .GrillaNoCelda
+{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 8pt;
+    color: #333;
+    border: 1px solid #BBD1EE;
+    width: 100%;
+    cursor: default;
+}
+
+.Grilla th, .GrillaCelda th, .GrillaNoCelda th
+{
+    font-size: 11px;
+    font-weight: bold;
+    color: #2c506c;
+    background: url(../Imagenes/Grilla/GrillaHeader1.png) repeat;
+    height: 19px;
+    border: solid 1px #BBD1EE;
+}
+.Grilla th a, .GrillaCelda th a, .GrillaNoCelda th a
+{
+    color: #2c506c;
+}
+.Grilla td
+{
+    border-style: none solid none solid;
+    height: 20px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-right-color: #BBD1EE;
+    border-left-color: #BBD1EE;
+}
+.GrillaCelda
+{
+    
+}
+.GrillaNoCelda
+{
+    
+}
+.GrillaCelda td
+{
+    border-width: 1px;
+    border-color: #BBD1EE;
+    border-style: solid solid solid solid;
+    height: 20px;
+}
+.GrillaNoCelda td
+{
+    border-style: none;
+    height: 20px;
+}
+.GrillaNone
+{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 8pt;
+    color: #333;
+    cursor: default;
+    border-style: none;
+    width: 100%;
+}
+.GrillaNone td
+{
+    border-style: none;
+    height: 20px;
+    margin-bottom: 5px;
+}
+
+.GrillaDiv, .GrillaDivMarco
+{
+    padding: 1px 0px 1px 0px;
+    width: 100%;
+    overflow: auto;
+    background-color: #FFFFFF;
+}
+.GrillaDivMarco
+{
+    padding: -10px;
+    border: 1px solid #BBD1EE;
+}
+.GrillaDivMarco table
+{
+    margin:-1px;
+}
+.GrillaRowAlternating
+{
+	background-color: #EFF8FB; /*#efefef;*/
+	cursor: default;
+}
+
+.GrillaPagerstyle
+{
+    text-align: left;
+    vertical-align: middle;
+    background-color: #359BD2;
+    color: #FFFFFF;
+}
+.GrillaPagerstyle table
+{
+    box-shadow: inset 0 0 4px 4px #2C8FC5;
+}
+
+.GrillaPagerstyle a:link, a:visited, a:active
+{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight:bold;
+}
+.GrillaPagerstyle a:hover
+{
+    text-decoration: underline;
+    color: #66FF33;
+}
+/*
+.GrillaPagprev
+{
+    background: transparent url(../Imagenes/Grilla/Previous.png) no-repeat scroll center;
+    height: 1.3em;
+    width: 16px;
+    cursor: pointer;
+    border: 0px;
+}
+.GrillaPagnext
+{
+    background: transparent url(../Imagenes/Grilla/Next.png) no-repeat scroll center;
+    height: 1.3em;
+    width: 16px;
+    cursor: pointer;
+    border: 0px;
+}
+
+.GrillaPagfirst
+{
+    background: transparent url(../Imagenes/Grilla/First.png) no-repeat scroll center;
+    height: 1.3em;
+    width: 16px;
+    cursor: pointer;
+    border: 0px;
+}
+
+.GrillaPaglast
+{
+    background: transparent url(../Imagenes/Grilla/Last.png) no-repeat scroll center;
+    height: 1.3em;
+    width: 16px;
+    cursor: pointer;
+    border: 0px;
+}
+*/
+    
+.GrillaSeleccion
+{
+    /*Este Esta Amrrado a la Funcion GrillaChangeBackColor, el color de HTML a RGB es rgb(114, 254, 56)*/
+    background-color: #72FE38;
+}
+.GrillaSeleccion td
+{
+    background-color: #72FE38;
+}
+
+.GrillaFocus
+{
+    background-color: #D9FF66;
+}
+.GrillaCheck
+{
+    /*border-color:#093;*/
+    background-color: #72FE38;
+}
+.GrillaRowOcultar
+{
+    display: none;
+}
+
+/*Formato Celdas*/
+.TablaGeneral
+{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    border-collapse: collapse;
+    border-spacing: 0px;
+    width: 100%;
+}
+.TablaGeneral2
+{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+.TablaGeneral td, .TablaGeneral2 td
+{
+    padding: 2px 4px 2px 4px;
+    border-style: none;
+}
+.TablaGeneralHeader
+{
+    background: url(../Imagenes/Grilla/GrillaHeader1.png) repeat;
+}
+.TablaGeneralHeader2
+{
+    background: url(../Imagenes/Grilla/GrillaHeader2.png) repeat;
+}
+.TablaGeneralHeader3
+{
+    background: url(../Imagenes/Grilla/GrillaHeader3.png) repeat;
+}
+.TablaGeneralHeader4
+{
+    background: url(../Imagenes/Grilla/GrillaHeader4.png) repeat;
+}
+.TablaGeneralHeader, .TablaGeneralHeader2, .TablaGeneralHeader3, .TablaGeneralHeader4
+{
+    padding: 0px;
+    margin: 0px;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 11px;
+    font-weight: bold;
+    color: #2c506c;
+    cursor: default;
+}
+.TablaGeneralHeader td, .TablaGeneralHeader2 td, .TablaGeneralHeader3 td, .TablaGeneralHeader4 td
+{
+    border: solid 1px #BBD1EE;
+    text-align: center;
+    vertical-align: middle;
+    height: 17px;
+}
+.tdright, .tdrightTop, .tdrightTopLinea
+{
+    text-align: right;
+    background-color: #E8F3FB;
+}
+.tdright
+{
+    vertical-align: middle;
+}
+.tdrightLinea
+{
+    text-align: right;
+    vertical-align: middle;
+    text-decoration: underline;
+}
+.tdrightTop
+{
+    vertical-align:text-top;
+}
+.tdrightTopLinea
+{
+    vertical-align:text-top;
+    text-decoration: underline;
+}
+.tdrightAli
+{
+    text-align: right;
+    vertical-align: middle;
+}
+.tdleft, .tdleftTop, .tdleftTopLinea
+{
+    text-align: left;
+    background-color: #E8F3FB;
+}
+.tdleft
+{
+    vertical-align: middle;
+}
+.tdleftLinea
+{
+    text-align: left;
+    vertical-align: middle;
+    text-decoration: underline;
+}
+.tdleftTop
+{
+    vertical-align:text-top;
+}
+.tdleftTopLinea
+{
+    vertical-align:text-top;
+    text-decoration: underline;
+}
+.tdleftAli
+{
+    text-align: left;
+    vertical-align: middle;
+}
+.tdcenter, .tdcenterTop, .tdcenterTopLinea
+{
+    text-align: center;
+    background-color: #E8F3FB;
+}
+.tdcenter
+{
+    vertical-align: middle;
+}
+.tdcenterLinea
+{
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: underline;
+}
+.tdcenterTop
+{
+    vertical-align:text-top;
+}
+.tdcenterTopLinea
+{
+    vertical-align:text-top;
+    text-decoration: underline;
+}
+.tdcenterAli
+{
+    text-align: center;
+    vertical-align: middle;
+}
+/*Grilla Popup Menu*/
+.grvPopupTool
+{
+    background: transparent url(../Imagenes/Grilla/Herramienta.png) no-repeat;
+    width: 17px;
+    height: 17px;
+    border: 0px;
+}
+.grvPopupDiv
+{
+    padding: 2px 2px 6px 2px;
+    z-index: 101;
+    position: absolute;
+    display: none;
+    border: 1px solid #C0C0C0;
+    background-color: #FFFFFF;
+    border-radius: 4px;
+}
+.grvPopupDiv p
+{
+    padding: 0px;
+    margin: 2px;
+    text-align: left;
+}
+.grvPopupDiv span
+{
+    cursor:pointer;
+    text-decoration: none;
+    color: #1d60ff;
+}
+.grvPopupDiv span:hover
+{
+    text-decoration: underline;
+    color: #CC0000;
+}
+.grvPopupDivImg
+{
+    margin: 1px 5px 1px 5px;
+    width: 15px;
+    height: 15px;
+}
+.grvPopupDivImgPanel
+{
+    background: transparent url(../Imagenes/Grilla/Candado.png) no-repeat;
+    width: 17px;
+    height: 17px;
+    border: 0px;
+}
+.TituloGrilla
+{
+    padding: 30px;
+    color: #000066;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 15px;
+    text-align: right;
+    font-weight: bold;
+    background-color: #81B4D9;
+    border-radius: 5px;
+    box-shadow: inset -2px -2px 2px 2px #69A5D1;
+}
+.BotonExpandir
+{
+    cursor: pointer;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #000099;
+}
+/*Formato Lista*/
+.ListaGrilla
+{
+    width: 100%;
+}
+.ListaGrillaOculto
+{
+    width: 100%;
+    display: none;
+}
